@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Drakken
+- 👋 Hi, I’m @Drakken.
 - 👀 I’m interested in functional programming, metaprogramming, programming languages, and AI.
 - 🌱 I’m currently learning random subjects that I don't know because I studied physics instead of CS.
 - 💞️ I’m looking to collaborate on remote projects involving OCaml.
