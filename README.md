@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dan. I'm a retired physics geek with some experience in the software business.
 - 👀 I’m interested in functional programming, metaprogramming, programming languages, and AI.
 - 🌱 I’m currently learning random subjects that I don't know because I studied physics instead of CS.
-- 💞️ I’m looking to collaborate on remote projects involving OCaml.
+- 💞️ I’m looking to collaborate remotely on projects involving OCaml.
 - 📫 How to reach me: danbensen@att.net.
 
 <!---
