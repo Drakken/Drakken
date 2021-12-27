@@ -2,7 +2,7 @@
 I've programmed in lots of different languages, and OCaml is my favorite.
 - 👀 In addition to physics, I’m also interested in functional programming, metaprogramming, programming languages, and AI.
 - 💞️ I’m looking to collaborate remotely on projects involving OCaml.
-- :factory: My current project is SMA_star, an OCaml library for doing heuristic searches with the SMA* algorithm.
+- :factory: I'm currently working on SMA_star, an OCaml library for doing heuristic searches with the SMA* algorithm.
 - 📫 How to reach me: danbensen@att.net.
 
 <!---
