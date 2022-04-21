@@ -1,8 +1,9 @@
-- 🌌 Hi, I’m Dan. I'm interested in functional programming, metaprogramming, AI, and physics.
+- 🌌 Hi, I’m Dan. I'm an old physics guy from back in the 20th century.
+- 👀 In addition to physics, my interests also include functional programming, metaprogramming, and AI.
 - &nbsp;**λ** &nbsp; I've programmed in lots of different languages, and OCaml is my favorite.
+- 🌟 My latest project is SMA_star, an OCaml library for doing heuristic searches with the SMA* algorithm.
 <!---
-- 💞️ I’m looking to collaborate remotely on projects involving OCaml.
-- :factory: I'm currently working on SMA_star, an OCaml library for doing heuristic searches with the SMA* algorithm.
+ - 💞️ I’m looking to collaborate remotely on projects involving OCaml. 
 --->
 
 <!---
