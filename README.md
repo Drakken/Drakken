@@ -1,4 +1,4 @@
-- 🌌 Hi, I’m Drakken. I'm interested in functional programming, metaprogramming, AI, and physics.
+- 🌌 Hi, I’m Dan. I'm interested in functional programming, metaprogramming, AI, and physics.
 - &nbsp;**λ** &nbsp; I've programmed in lots of different languages, and OCaml is my favorite.
 <!---
 - 💞️ I’m looking to collaborate remotely on projects involving OCaml.
